@@ -1,6 +1,7 @@
 # Semi-supervised-learning
 Co-Training:
 
+Data source: http://archive.ics.uci.edu/ml/datasets/Census+Income
 1.feature selection:
 sort features according to its importance in classification.(1.13.4.2. Tree-based feature selection http://scikit-learn.org/stable/modules/feature_selection.html)
 
