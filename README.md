@@ -6,18 +6,31 @@ sort features according to its importance in classification.(1.13.4.2. Tree-base
 
 results(sorted):
   02：0.16642171
+  
                  00：0.15250437  
+                 
   10：0.09517638
+  
                  05：0.09210936
+                 
   01：0.04385695  
+  
                  12：0.09138533
+                 
   04：0.08380449 
+  
                  03：0.03662243  
+                 
   07：0.07951946
+  
                  06：0.07489068  
+                 
   11：0.02871004
+  
                  09：0.02255841
+                 
   13：0.0169574
+  
                  08：0.01548301
                  
 select features every other one to ensure that every feature space sufficient to train a classifier.
